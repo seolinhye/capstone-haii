@@ -1,4 +1,4 @@
-# SangMyung-capstone-haii
+# capstone-haii
 
 - IAV
 - MFCC
